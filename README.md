@@ -3,7 +3,7 @@
 **VictorCosta7/VictorCosta7** 
 
 
-- 🔭 Sou desenvolvedor back-end Golang
+- 🔭 Sou desenvolvedor back-end Go
 
-- 💬 Ask me about Go
-- 📫 How to reach me: engvictorcosta10@gmail.com 
+- 💬 Pergunte-me sobre Go
+- 📫 Contato: engvictorcosta10@gmail.com 
